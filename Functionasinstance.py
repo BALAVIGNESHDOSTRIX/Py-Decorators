@@ -1,3 +1,12 @@
+'''
+        IMPLEMENTED DATE: 23/06/2019
+
+        DEVELOPER NAME: M.BALAVIGNESH
+
+        Scope of Implementation: To understanding the functional flow of when function
+                                 maked as a instance without creating the instance
+'''
+
 import random
 
 class RandomChoice:
